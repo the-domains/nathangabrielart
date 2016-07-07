@@ -1,20 +1,24 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: About Nathan Gabriel
-datePublished: '2016-07-07T18:00:44.091Z'
-dateModified: '2016-07-07T18:00:13.239Z'
-title: ''
-author: []
+description: Gallery
+datePublished: '2016-07-07T20:06:03.529Z'
+dateModified: '2016-07-07T19:41:14.954Z'
+title: the Spirits of the Mists
+author:
+  - name: Nathan Gabriel
+    url: ''
+sourcePath: _posts/2016-07-07-about-nathan-gabriel.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-07-about-nathan-gabriel.md
 url: about-nathan-gabriel/index.html
 _type: Article
 
 ---
-About Nathan Gabriel
+Gallery
+![the Spirits of the Mists](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c166b1b2-fc16-4351-b6f2-27588734d8dc.jpg)
+![Carry My Burdens](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08bb9b47-bca8-4155-8a26-63465aafa16d.jpg)
