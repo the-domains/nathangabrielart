@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nathan Gabriel Art]]></title>
         <description><![CDATA[Nathan Gabriel Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nathangabrielart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 18:00:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 20:05:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nathangabrielart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>some test text</p>]]></description>
+            <link>https://thegrid.ai/nathangabrielart/some-test-text/index.html</link>
+            <guid isPermaLink="false">66e4d6f2-0a4f-4cc1-b7e8-ace212b57755</guid>
+            <pubDate>Thu, 07 Jul 2016 20:05:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>About Nathan Gabriel</p>]]></description>
-            <link>undefinedabout-nathan-gabriel/index.html</link>
+            <link>https://thegrid.ai/nathangabrielart/about-nathan-gabriel/index.html</link>
             <guid isPermaLink="false">06ad9a08-a48b-48a9-8904-989e99ed1561</guid>
             <pubDate>Thu, 07 Jul 2016 18:00:44 GMT</pubDate>
         </item>
