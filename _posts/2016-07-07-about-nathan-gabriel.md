@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Gallery
-datePublished: '2016-07-07T20:07:11.314Z'
-dateModified: '2016-07-07T20:06:30.928Z'
+description: ''
+datePublished: '2016-07-07T20:52:37.329Z'
+dateModified: '2016-07-07T20:42:30.984Z'
 title: the Spirits of the Mists
 author:
   - name: Nathan Gabriel
@@ -19,6 +19,5 @@ url: about-nathan-gabriel/index.html
 _type: Article
 
 ---
-Gallery
 ![the Spirits of the Mists](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c166b1b2-fc16-4351-b6f2-27588734d8dc.jpg)
 ![Carry My Burdens](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08bb9b47-bca8-4155-8a26-63465aafa16d.jpg)
