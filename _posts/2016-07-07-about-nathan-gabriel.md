@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Gallery
-datePublished: '2016-07-07T20:06:03.529Z'
-dateModified: '2016-07-07T19:41:14.954Z'
+datePublished: '2016-07-07T20:07:11.314Z'
+dateModified: '2016-07-07T20:06:30.928Z'
 title: the Spirits of the Mists
 author:
   - name: Nathan Gabriel
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-07-07-about-nathan-gabriel.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: about-nathan-gabriel/index.html
 _type: Article
 
