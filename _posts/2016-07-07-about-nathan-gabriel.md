@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-07T20:53:42.097Z'
-dateModified: '2016-07-07T20:53:26.050Z'
+datePublished: '2016-07-08T03:05:59.989Z'
+dateModified: '2016-07-07T20:53:50.606Z'
 title: the Spirits of the Mists
 author:
   - name: Nathan Gabriel
