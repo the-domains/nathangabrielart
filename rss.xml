@@ -4,8 +4,15 @@
         <description><![CDATA[Nathan Gabriel Art]]></description>
         <link>https://thegrid.ai/nathangabrielart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 23:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 04:00:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nathangabrielart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nathan Gabriel]]></title>
+            <description><![CDATA[<p>Nathan Gabriel is an artist, tinkerer, inventor and enthusiast of both physical forms of art and craftsmanship as well as digital methods. His methods combine both the digital and physical world to create his works of art in a process that he calls "Photosculpting" a form of photo composting to render an image made only of physical images that he himself has photographed. Using professional softwares to combine these photos in a method of both learned and custom techniques of his own he is able to bring the worlds of fantasy to life from within his own mind. Nathan also does works of sculpture in mostly clay mediums though has ventured into the world of 3D printing to further express his desire to create works using both the physical and digital worlds.</p>]]></description>
+            <link>https://thegrid.ai/nathangabrielart/nathan-gabriel/index.html</link>
+            <guid isPermaLink="false">11c7d6ca-eabb-48cd-a783-ca3a74c05216</guid>
+            <pubDate>Sat, 09 Jul 2016 04:00:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f17d7aa-3d20-4d12-943f-3f73417cc33d.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/nathangabrielart/621df9cd-a27f-4711-83b2-bf3e3b6c8a42/index.html</link>
             <guid isPermaLink="false">621df9cd-a27f-4711-83b2-bf3e3b6c8a42</guid>
             <pubDate>Fri, 08 Jul 2016 23:14:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nathan Gabriel]]></title>
-            <description><![CDATA[<p>Nathan Gabriel is an artist, tinkerer, inventor and enthusiast of both physical forms of art and craftsmanship as well as digital methods. His methods combine both the digital and physical world to create his works of art in a process that he calls "Photosculpting" a form of photo composting to render an image made only of physical images that he himself has photographed. Using professional softwares to combine these photos in a method of both learned and custom techniques of his own he is able to bring the worlds of fantasy to life from within his own mind. Nathan also does works of sculpture in mostly clay mediums though has ventured into the world of 3D printing to further express his desire to create works using both the physical and digital worlds.</p>]]></description>
-            <link>https://thegrid.ai/nathangabrielart/nathan-gabriel/index.html</link>
-            <guid isPermaLink="false">11c7d6ca-eabb-48cd-a783-ca3a74c05216</guid>
-            <pubDate>Fri, 08 Jul 2016 23:12:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
