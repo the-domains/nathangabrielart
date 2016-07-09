@@ -1,29 +1,41 @@
-name: Nathan Gabriel Art
-favicon: null
-layout_spectrum: 0.36734
-typography_spectrum: 0.3592544982675463
 title: Nathan Gabriel Art
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6875
+  brandStrength: 0.2650376
+  lightness: 0.3125
+  brandColors:
+    - '#030305'
+    - '#7A7160'
+    - '#443933'
+    - '#A29FBA'
+    - '#D8DCE7'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Nathan Gabriel Art
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fefefe'
-    - '#130907'
-    - '#555354'
-    - '#a69359'
-    - '#fed468'
-  brandStrength: 0.25
-  lightness: 0.3125
-  saturation: 0.6875
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.3592544982675463
+layout_spectrum: 0.36734
