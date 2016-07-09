@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -16,14 +16,14 @@ description: >-
   in mostly clay mediums though has ventured into the world of 3D printing to
   further express his desire to create works using both the physical and digital
   worlds.
-datePublished: '2016-07-08T23:12:15.310Z'
-dateModified: '2016-07-08T23:12:11.920Z'
+datePublished: '2016-07-09T04:00:46.951Z'
+dateModified: '2016-07-09T04:00:23.170Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-08-nathan-gabriel.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-07-08-nathan-gabriel.md
+starred: true
 url: nathan-gabriel/index.html
 _type: Article
 
