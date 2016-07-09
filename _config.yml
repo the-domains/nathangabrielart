@@ -22,7 +22,7 @@ color:
     - '#443933'
     - '#A29FBA'
     - '#D8DCE7'
-  rhythmicContrast: 0.1447368
+  rhythmicContrast: 0.6923559
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Nathan Gabriel Art
+favicon: null
 opengraph:
   image: null
   type: null
